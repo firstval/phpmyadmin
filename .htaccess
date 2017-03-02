@@ -1,0 +1,3 @@
+php_value max_input_vars 999999
+php_flag max_input_vars 999999
+
